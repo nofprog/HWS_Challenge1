@@ -9,21 +9,47 @@
 /* Begin PBXBuildFile section */
 		3C39080325EDD04700375AF9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C39080225EDD04700375AF9 /* AppDelegate.swift */; };
 		3C39080525EDD04700375AF9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C39080425EDD04700375AF9 /* SceneDelegate.swift */; };
-		3C39080725EDD04700375AF9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C39080625EDD04700375AF9 /* ViewController.swift */; };
 		3C39080A25EDD04700375AF9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C39080825EDD04700375AF9 /* Main.storyboard */; };
 		3C39080C25EDD04E00375AF9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C39080B25EDD04E00375AF9 /* Assets.xcassets */; };
 		3C39080F25EDD04E00375AF9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C39080D25EDD04E00375AF9 /* LaunchScreen.storyboard */; };
+		3C39083025EDD0F200375AF9 /* flag_italy.png in Resources */ = {isa = PBXBuildFile; fileRef = 3C39081825EDD0EE00375AF9 /* flag_italy.png */; };
+		3C39083525EDD0F200375AF9 /* flag_ireland.png in Resources */ = {isa = PBXBuildFile; fileRef = 3C39081D25EDD0EF00375AF9 /* flag_ireland.png */; };
+		3C39083725EDD0F200375AF9 /* flag_spain.png in Resources */ = {isa = PBXBuildFile; fileRef = 3C39081F25EDD0EF00375AF9 /* flag_spain.png */; };
+		3C39083825EDD0F200375AF9 /* flag_us.png in Resources */ = {isa = PBXBuildFile; fileRef = 3C39082025EDD0EF00375AF9 /* flag_us.png */; };
+		3C39083925EDD0F200375AF9 /* flag_france.png in Resources */ = {isa = PBXBuildFile; fileRef = 3C39082125EDD0F000375AF9 /* flag_france.png */; };
+		3C39083B25EDD0F200375AF9 /* flag_germany.png in Resources */ = {isa = PBXBuildFile; fileRef = 3C39082325EDD0F000375AF9 /* flag_germany.png */; };
+		3C39083D25EDD0F200375AF9 /* flag_poland.png in Resources */ = {isa = PBXBuildFile; fileRef = 3C39082525EDD0F000375AF9 /* flag_poland.png */; };
+		3C39083F25EDD0F200375AF9 /* flag_russia.png in Resources */ = {isa = PBXBuildFile; fileRef = 3C39082725EDD0F100375AF9 /* flag_russia.png */; };
+		3C39084125EDD0F200375AF9 /* flag_nigeria.png in Resources */ = {isa = PBXBuildFile; fileRef = 3C39082925EDD0F100375AF9 /* flag_nigeria.png */; };
+		3C39084425EDD0F200375AF9 /* flag_monaco.png in Resources */ = {isa = PBXBuildFile; fileRef = 3C39082C25EDD0F100375AF9 /* flag_monaco.png */; };
+		3C39084525EDD0F200375AF9 /* flag_uk.png in Resources */ = {isa = PBXBuildFile; fileRef = 3C39082D25EDD0F100375AF9 /* flag_uk.png */; };
+		3C39084725EDD0F200375AF9 /* flag_estonia.png in Resources */ = {isa = PBXBuildFile; fileRef = 3C39082F25EDD0F200375AF9 /* flag_estonia.png */; };
+		3C39084C25EDD26500375AF9 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C39084B25EDD26500375AF9 /* DetailViewController.swift */; };
+		3C39085125EDD8DB00375AF9 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C39085025EDD8DB00375AF9 /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		3C3907FF25EDD04700375AF9 /* HWS_Challenge1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HWS_Challenge1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C39080225EDD04700375AF9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3C39080425EDD04700375AF9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		3C39080625EDD04700375AF9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		3C39080925EDD04700375AF9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		3C39080B25EDD04E00375AF9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3C39080E25EDD04E00375AF9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3C39081025EDD04E00375AF9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3C39081825EDD0EE00375AF9 /* flag_italy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flag_italy.png; sourceTree = "<group>"; };
+		3C39081D25EDD0EF00375AF9 /* flag_ireland.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flag_ireland.png; sourceTree = "<group>"; };
+		3C39081F25EDD0EF00375AF9 /* flag_spain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flag_spain.png; sourceTree = "<group>"; };
+		3C39082025EDD0EF00375AF9 /* flag_us.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flag_us.png; sourceTree = "<group>"; };
+		3C39082125EDD0F000375AF9 /* flag_france.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flag_france.png; sourceTree = "<group>"; };
+		3C39082325EDD0F000375AF9 /* flag_germany.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flag_germany.png; sourceTree = "<group>"; };
+		3C39082525EDD0F000375AF9 /* flag_poland.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flag_poland.png; sourceTree = "<group>"; };
+		3C39082725EDD0F100375AF9 /* flag_russia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flag_russia.png; sourceTree = "<group>"; };
+		3C39082925EDD0F100375AF9 /* flag_nigeria.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flag_nigeria.png; sourceTree = "<group>"; };
+		3C39082C25EDD0F100375AF9 /* flag_monaco.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flag_monaco.png; sourceTree = "<group>"; };
+		3C39082D25EDD0F100375AF9 /* flag_uk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flag_uk.png; sourceTree = "<group>"; };
+		3C39082F25EDD0F200375AF9 /* flag_estonia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flag_estonia.png; sourceTree = "<group>"; };
+		3C39084B25EDD26500375AF9 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		3C39085025EDD8DB00375AF9 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,13 +84,34 @@
 			children = (
 				3C39080225EDD04700375AF9 /* AppDelegate.swift */,
 				3C39080425EDD04700375AF9 /* SceneDelegate.swift */,
-				3C39080625EDD04700375AF9 /* ViewController.swift */,
+				3C39084B25EDD26500375AF9 /* DetailViewController.swift */,
+				3C39085025EDD8DB00375AF9 /* TableViewController.swift */,
 				3C39080825EDD04700375AF9 /* Main.storyboard */,
 				3C39080B25EDD04E00375AF9 /* Assets.xcassets */,
 				3C39080D25EDD04E00375AF9 /* LaunchScreen.storyboard */,
 				3C39081025EDD04E00375AF9 /* Info.plist */,
+				3C39084925EDD11B00375AF9 /* Contents */,
 			);
 			path = HWS_Challenge1;
+			sourceTree = "<group>";
+		};
+		3C39084925EDD11B00375AF9 /* Contents */ = {
+			isa = PBXGroup;
+			children = (
+				3C39082F25EDD0F200375AF9 /* flag_estonia.png */,
+				3C39082125EDD0F000375AF9 /* flag_france.png */,
+				3C39082325EDD0F000375AF9 /* flag_germany.png */,
+				3C39081D25EDD0EF00375AF9 /* flag_ireland.png */,
+				3C39081825EDD0EE00375AF9 /* flag_italy.png */,
+				3C39082C25EDD0F100375AF9 /* flag_monaco.png */,
+				3C39082925EDD0F100375AF9 /* flag_nigeria.png */,
+				3C39082525EDD0F000375AF9 /* flag_poland.png */,
+				3C39082725EDD0F100375AF9 /* flag_russia.png */,
+				3C39081F25EDD0EF00375AF9 /* flag_spain.png */,
+				3C39082D25EDD0F100375AF9 /* flag_uk.png */,
+				3C39082025EDD0EF00375AF9 /* flag_us.png */,
+			);
+			path = Contents;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -124,8 +171,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3C39083025EDD0F200375AF9 /* flag_italy.png in Resources */,
 				3C39080F25EDD04E00375AF9 /* LaunchScreen.storyboard in Resources */,
 				3C39080C25EDD04E00375AF9 /* Assets.xcassets in Resources */,
+				3C39083D25EDD0F200375AF9 /* flag_poland.png in Resources */,
+				3C39083925EDD0F200375AF9 /* flag_france.png in Resources */,
+				3C39084725EDD0F200375AF9 /* flag_estonia.png in Resources */,
+				3C39083F25EDD0F200375AF9 /* flag_russia.png in Resources */,
+				3C39084525EDD0F200375AF9 /* flag_uk.png in Resources */,
+				3C39083B25EDD0F200375AF9 /* flag_germany.png in Resources */,
+				3C39083825EDD0F200375AF9 /* flag_us.png in Resources */,
+				3C39084425EDD0F200375AF9 /* flag_monaco.png in Resources */,
+				3C39083725EDD0F200375AF9 /* flag_spain.png in Resources */,
+				3C39083525EDD0F200375AF9 /* flag_ireland.png in Resources */,
+				3C39084125EDD0F200375AF9 /* flag_nigeria.png in Resources */,
 				3C39080A25EDD04700375AF9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,9 +196,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3C39080725EDD04700375AF9 /* ViewController.swift in Sources */,
 				3C39080325EDD04700375AF9 /* AppDelegate.swift in Sources */,
 				3C39080525EDD04700375AF9 /* SceneDelegate.swift in Sources */,
+				3C39084C25EDD26500375AF9 /* DetailViewController.swift in Sources */,
+				3C39085125EDD8DB00375AF9 /* TableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -296,7 +356,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.Jinapps.HWS-Challenge1";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -315,7 +375,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.Jinapps.HWS-Challenge1";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
